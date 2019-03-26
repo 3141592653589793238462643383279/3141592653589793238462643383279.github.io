@@ -59,3 +59,7 @@ a:hover {
 #navigation ul li {
   display: inline-block;
 }
+
+#superimportant:hover {
+  color: #458FFF;
+}
